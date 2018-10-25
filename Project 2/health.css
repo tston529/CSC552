@@ -1,0 +1,15 @@
+tr:nth-child(even) {  
+    background: bisque;  
+} 
+
+tr:nth-child(odd) {  
+    background: white;  
+} 
+
+.error {
+    color:#8B0000;
+}
+
+.neutral {
+    color:#191970;
+}
