@@ -1,6 +1,6 @@
 README
 
-![The program in action, two users named Tyler and Jeff.](https://raw.githubusercontent.com/tston529/CSC552/master/Project%203/unixproject3.png?raw=true "The program in action, two users named Tyler and Jeff.")
+![](https://raw.githubusercontent.com/tston529/CSC552/master/Project%203/unixproject3.png?token=AfKaB6FSRhy7VqS5F_GONMquyQR5vJ9mks5cU1U5wA%3D%3D )
 
 (The following is the readme submitted with the project.)
 
