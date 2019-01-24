@@ -1,5 +1,9 @@
 README
 
+![The program in action, two users named Tyler and Jeff.](https://raw.githubusercontent.com/tston529/CSC552/master/Project%203/unixproject3.png?raw=true "The program in action, two users named Tyler and Jeff.")
+
+(The following is the readme submitted with the project.)
+
 Preface: An Apology
 -------------------
 This code is garbage.  Its structure and implementations
