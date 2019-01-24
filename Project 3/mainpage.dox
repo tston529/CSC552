@@ -1,0 +1,28 @@
+/*! \mainpage Chat Client/Server
+ *
+ * \section brief_sec Overview
+ *
+ * Spins up a server to store data on clients, sends routing info
+ * to clients when requested to allow clients to send messages
+ * direclty to one another
+ *
+ * \section install_sec Build/Run
+ * 
+ * \subsection make_sec Building
+ * To compile, run 
+ * make
+ * 
+ * \subsection run_sec Running
+ * Spin up the server with
+ * ./server
+ * Once the server is ready, run a client with 
+ * ./client <username>
+ * where <username> is what you would like to be called.
+ * If no username is entered, you will be prompted for a 
+ * username upon program's initialization.
+ * 
+ * \section bugs_sec Bugs
+ * There's too many possible bugs to list here, it'll be
+ * a surprise :-)
+ *
+ */
